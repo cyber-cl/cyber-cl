@@ -75,29 +75,3 @@
 </p>
 
 ---
-
-## 📌 How to Set Up GitHub Actions for Blog Posts
-
-To automatically update your README with your latest blog posts, create a file at `.github/workflows/blog-post-workflow.yml` with the following content:
-
-```yaml
-name: Latest blog posts workflow
-on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://jakharprasant.hashnode.dev/rss.xml"
-          max_post_count: 5
-```
-
-This will automatically update the "Latest Blog Posts" section with your most recent Hashnode articles.
