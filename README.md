@@ -9,7 +9,7 @@
 - 🌱 I'm passionate about **Cloud Engineering, DevOps, and Infrastructure as Code**
 - 👯 I'm looking to collaborate on **Cloud-native projects**
 - 💬 Ask me about **AWS, Terraform, Kubernetes, and CI/CD pipelines**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/prashant-jakhar-44612418b)
 - ⚡ Fun fact: I love automating everything!
 
 ## 🛠️ Skills
