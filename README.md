@@ -51,9 +51,9 @@
 
 ## 🏅 Certifications
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-orange?style=for-the-badge&logo=amazon-aws" alt="AWS Certified Solutions Architect" />
-  <img src="https://img.shields.io/badge/Google-Associate_Cloud_Engineer-blue?style=for-the-badge&logo=google-cloud" alt="Google Associate Cloud Engineer" />
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-yellow?style=for-the-badge&logo=amazon-aws" alt="AWS Cloud Practitioner" />
+  <img src="https://www.credly.com/badges/45e48dbd-ba43-43f7-a3f4-f9bbb60a5f02/public_url" alt="AWS Certified Solutions Architect" />
+  <img src="https://www.credly.com/badges/74787f60-ad55-46e9-b3a7-03682e66d9e8" alt="Google Associate Cloud Engineer" />
+  <img src="https://www.credly.com/badges/f2148073-7dfd-4743-baa9-1e3b0598ff46/public_url" alt="AWS Cloud Practitioner" />
 </p>
 
 ## 🚀 Featured Projects
