@@ -1,83 +1,196 @@
-# Hi there, I'm Prashant Jakhar 👋
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+```
+                                                                    
+  ██████╗ ██████╗  █████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗████████╗
+  ██╔══██╗██╔══██╗██╔══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║╚══██╔══╝
+  ██████╔╝██████╔╝███████║███████╗███████║███████║██╔██╗ ██║   ██║   
+  ██╔═══╝ ██╔══██╗██╔══██║╚════██║██╔══██║██╔══██║██║╚██╗██║   ██║   
+  ██║     ██║  ██║██║  ██║███████║██║  ██║██║  ██║██║ ╚████║   ██║   
+  ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   
+                                                                    
+```
+
+**Cloud SME @ Amazon** · Building infrastructure that doesn't break at 3 AM.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-jakhar)
+[![Hashnode](https://img.shields.io/badge/hashnode-%232962FF.svg?style=flat&logo=hashnode&logoColor=white)](https://jakharprasant.hashnode.dev)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Prasantjakha17)
+
 </div>
 
-## 👨‍💻 About Me
-- 🔭 I'm currently working as a **Cloud SME at Amazon**
-- 🌱 I'm passionate about **Cloud Engineering, DevOps, and Infrastructure as Code**
-- 👯 I'm looking to collaborate on **Cloud-native projects**
-- 💬 Ask me about **AWS, Terraform, Kubernetes, and CI/CD pipelines**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/prashant-jakhar-44612418b)
-- ⚡ Fun fact: I love automating everything!
-
-## 🛠️ Skills
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform,kubernetes,docker,python,java,linux,git,jenkins" />
-  </a>
-</p>
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyber-cl&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-cl&theme=radical" alt="GitHub Streak" />
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cyber-cl&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-## 📈 Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cyber-cl&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🔝 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-cl&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## 🔗 Connect with me
-<p align="center">
-  <a href="https://linkedin.com/in/prashant-jakhar-44612418b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/Prashantjakha17"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://jakharprasant.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
-</p>
-
-## 🏅 Certifications
-<p align="center">
-  <a href="https://www.credly.com/badges/45e48dbd-ba43-43f7-a3f4-f9bbb60a5f02/public_url">
-    <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect Associate" />
-  </a>
-  <a href="https://www.credly.com/badges/74787f60-ad55-46e9-b3a7-03682e66d9e8">
-    <img src="https://img.shields.io/badge/Google-Associate_Cloud_Engineer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Associate Cloud Engineer" />
-  </a>
-  <a href="https://www.credly.com/badges/f2148073-7dfd-4743-baa9-1e3b0598ff46/public_url">
-    <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner" />
-  </a>
-</p>
-
-## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/cyber-cl/cloud-resume-challenge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyber-cl&repo=cloud-resume-challenge&theme=radical" alt="Cloud Resume Challenge" />
-  </a>
-  <a href="https://github.com/cyber-cl/emartapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyber-cl&repo=emartapp&theme=radical" alt="EMart App" />
-  </a>
-  <a href="https://github.com/cyber-cl/Netflix_Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cyber-cl&repo=Netflix_Clone&theme=radical" alt="Netflix Clone" />
-  </a>
-</p>
-
-## 👀 Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/cyber-cl/count.svg" alt="Visitor Count" />
-</p>
+<br>
 
 ---
+
+<br>
+
+### `> whoami`
+
+I'm Prasant Jakhar — a Cloud Engineer who thinks in architectures and dreams in YAML.
+
+I don't just deploy infrastructure. I design systems that scale quietly, fail gracefully, and let teams sleep through the night. Currently at **Amazon**, where the margins for error are measured in milliseconds and the blast radius is global.
+
+I believe the best infrastructure is the kind nobody notices — because it just works.
+
+<br>
+
+---
+
+<br>
+
+### `> cat certifications.txt`
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   ☁  AWS Solutions Architect – Associate          ✓ PASS   │
+│   ☁  AWS CloudOps Engineer – Associate            ✓ PASS   │
+│   ☁  AWS Developer – Associate                    ✓ PASS   │
+│   ☁  AWS Cloud Practitioner                       ✓ PASS   │
+│   ☁  Google Associate Cloud Engineer              ✓ PASS   │
+│                                                             │
+│   "Certifications don't make the engineer,                  │
+│    but they prove you did the homework."                     │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+---
+
+<br>
+
+### `> ls toolkit/`
+
+<div align="center">
+
+| Cloud | Containerization | IaC | DevOps & CI/CD | Monitoring |
+|:---:|:---:|:---:|:---:|:---:|
+| AWS | Docker | Terraform | Jenkins | Grafana |
+| Azure | Kubernetes | CloudFormation | GitHub Actions | Prometheus |
+| GCP | Amazon ECS | Ansible | ArgoCD | Kibana |
+| | Helm Charts | | Git | CloudWatch |
+
+| Networking | Security | Languages | OS |
+|:---:|:---:|:---:|:---:|
+| Amazon VPC | AWS IAM | Python | Unix/Linux |
+| Route 53 | AWS KMS | Java | Windows |
+| CloudFront | AWS Shield | Shell Scripting | |
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+### `> tree projects/ --highlights`
+
+<table>
+<tr>
+<td width="50%">
+
+**☁️ Cloud Resume Challenge**
+<br>
+Serverless resume hosted entirely on AWS — S3, CloudFront, Lambda, DynamoDB, API Gateway. Infrastructure as Code with Terraform. CI/CD with GitHub Actions.
+<br><br>
+[`→ View Repository`](https://github.com/cyber-cl/cloud-resume-challenge)
+
+</td>
+<td width="50%">
+
+**🛒 EMart App**
+<br>
+Full-stack e-commerce microservices application. Containerized with Docker, orchestrated with Kubernetes, deployed on AWS EKS.
+<br><br>
+[`→ View Repository`](https://github.com/cyber-cl/emartapp)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🔭 OpenTelemetry Astronomy Shop**
+<br>
+Cloud-native microservices demo app instrumented with OpenTelemetry for distributed tracing, metrics, and logging across services.
+<br><br>
+[`→ View Repository`](https://github.com/cyber-cl/OpenTelemetry-Astronomy-Shop)
+
+</td>
+<td width="50%">
+
+**🔐 Production Grade DevSecOps**
+<br>
+End-to-end DevSecOps pipeline with SAST, DAST, container scanning, and security gates integrated into CI/CD — shifting security left from day one.
+<br><br>
+[`→ View Repository`](https://github.com/cyber-cl)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**🎬 Netflix Clone**
+<br>
+Production-grade Netflix UI clone deployed with a complete CI/CD pipeline — Docker, Jenkins, Kubernetes, monitoring with Prometheus & Grafana.
+<br><br>
+[`→ View Repository`](https://github.com/cyber-cl/Netflix_Clone)
+
+</td>
+<td width="50%">
+
+**🔮 What's Next?**
+<br>
+Always building. Always breaking things in staging so production stays boring. Got an idea? Let's talk.
+<br><br>
+[`→ Let's Collaborate`](https://linkedin.com/in/prashant-jakhar)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+<br>
+
+### `> neofetch`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=cyber-cl&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_color=30363d&hide_border=false" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-cl&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d&border=30363d" height="165" />
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   "The cloud is just someone else's computer.            │
+│    My job is making sure it's a really good computer."   │
+│                                                          │
+│                              — Prasant Jakhar           │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" width="100%" />
+
+</div>
