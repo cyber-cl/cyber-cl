@@ -229,18 +229,18 @@ fun_fact: "I think in architectures and dream in YAML"
 <div align="center">
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=cyber-cl&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
+<img src="https://github-trophies.vercel.app/?username=cyber-cl&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
 
 <br><br>
 
 <!-- Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=cyber-cl&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true" height="180" />
+<img src="https://github-stats-extended.vercel.app/api?username=cyber-cl&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true" height="180" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-cl&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d&border=30363d" height="180" />
 
 <br><br>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-cl&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d&hide_border=false&langs_count=8" height="180" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cyber-cl&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&border_color=30363d&hide_border=false&langs_count=8" height="180" />
 
 <br><br>
 
