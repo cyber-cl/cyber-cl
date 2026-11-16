@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-labelledby="title desc">
+  <title id="title">Prasant Jakhar | Cloud engineer</title>
+  <desc id="desc">A cloud terminal with a connected infrastructure diagram. Cloud SME at Amazon, building infrastructure that lets teams sleep.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#0d1728"/>
+      <stop offset="1" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#2dd4bf"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1e293b" stroke-width=".7"/>
+    </pattern>
+    <style>
+      .mono { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; }
+      .flow { stroke-dasharray: 5 8; animation: flow 3s linear infinite; }
+      .cursor { animation: blink 1.4s step-end infinite; }
+      @keyframes flow { to { stroke-dashoffset: -52; } }
+      @keyframes blink { 50% { opacity: 0; } }
+      @media (prefers-reduced-motion: reduce) { .flow, .cursor { animation: none; } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="958" height="318" rx="18" fill="url(#background)" stroke="#303d50"/>
+  <rect x="1" y="1" width="958" height="318" rx="18" fill="url(#grid)" opacity=".5"/>
+  <path d="M20 47H940" stroke="#263449"/>
+  <g transform="translate(25 25)">
+    <circle r="5" fill="#fb7185"/>
+    <circle cx="19" r="5" fill="#fbbf24"/>
+    <circle cx="38" r="5" fill="#2dd4bf"/>
+  </g>
+  <text x="480" y="30" text-anchor="middle" fill="#94a3b8" font-size="12" class="mono">prasant@cloud: ~/build-something-good</text>
+  <g class="mono">
+    <text x="38" y="91" fill="#2dd4bf" font-size="13">$ ssh prasant@cloud</text>
+    <text x="36" y="148" fill="#f1f5f9" font-size="42" font-weight="700" letter-spacing="-2">Prasant Jakhar</text>
+    <text x="38" y="183" fill="#38bdf8" font-size="17">Cloud SME @ Amazon</text>
+    <text x="38" y="220" fill="#cbd5e1" font-size="14">Building infrastructure</text>
+    <text x="38" y="243" fill="#cbd5e1" font-size="14">that lets teams sleep.</text>
+    <text x="38" y="288" fill="#94a3b8" font-size="11">ARCHITECT / AUTOMATE / OBSERVE</text>
+    <rect class="cursor" x="300" y="277" width="7" height="13" fill="#2dd4bf"/>
+  </g>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" class="flow">
+    <path d="M626 124V165H567V207"/>
+    <path d="M626 165H704V207"/>
+    <path d="M704 230H775V124H693"/>
+    <path d="M797 124H866V207"/>
+  </g>
+  <g fill="#101e30" stroke="#33465e">
+    <rect x="573" y="80" width="120" height="55" rx="10"/>
+    <rect x="519" y="207" width="100" height="48" rx="10"/>
+    <rect x="654" y="207" width="100" height="48" rx="10"/>
+    <rect x="748" y="80" width="100" height="55" rx="10"/>
+    <rect x="815" y="207" width="100" height="48" rx="10"/>
+  </g>
+  <g class="mono" font-size="12" text-anchor="middle">
+    <text x="633" y="104" fill="#2dd4bf">CLOUD</text>
+    <text x="633" y="122" fill="#94a3b8" font-size="10">AWS / GCP</text>
+    <text x="569" y="236" fill="#cbd5e1">IaC</text>
+    <text x="704" y="236" fill="#cbd5e1">CI/CD</text>
+    <text x="798" y="104" fill="#38bdf8">OBSERVE</text>
+    <text x="798" y="122" fill="#94a3b8" font-size="10">logs + traces</text>
+    <text x="865" y="236" fill="#cbd5e1">SECURITY</text>
+  </g>
+  <path d="M38 312H922" stroke="url(#accent)" stroke-width="2" opacity=".6"/>
+</svg>
